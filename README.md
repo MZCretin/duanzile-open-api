@@ -21,8 +21,8 @@
 
 先大致展示下一些主要的页面：
 
-<div align=center style="background: #ccc">
-  <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/3.png" alt="我的页面" />
+<div align=center style="background: red">
+  <img style="margin-right: 10px;margin-bottom: 100px; border: 1px solid red" width="30%" height="100%" src="./img/3.png" alt="我的页面" />
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/page1.png" alt="首页"/>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/25.png" alt="我的页面"/>
