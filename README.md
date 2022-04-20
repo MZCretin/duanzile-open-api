@@ -21,7 +21,7 @@
 
 先大致展示下一些主要的页面：
 
-<div align=center background: red>
+<div align=center background=red>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/3.png" alt="我的页面" />
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/page1.png" alt="首页"/>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
