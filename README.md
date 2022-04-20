@@ -22,36 +22,36 @@
 先大致展示下一些主要的页面：
 
 <div align=center >
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/3.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/page1.png" alt="首页"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/25.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/26.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/2.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/page2.png" alt="划一划"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/24.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/page3.png" alt="消息页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/13.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/page4.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/1.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/4.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/5.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/6.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/7.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/8.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/9.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/10.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/11.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/12.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/14.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/15.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/16.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/17.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/18.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/20.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/21.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/22.png" alt="我的页面"/>
-  <img style="margin-right: 10px;margin-bottom: 10px; border: 1px solid #cccccc" width="30%" height="100%" src="./img/23.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/3.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/page1.png" alt="首页"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/25.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/26.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/2.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/page2.png" alt="划一划"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/24.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/page3.png" alt="消息页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/13.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/page4.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/1.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/4.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/5.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/6.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/7.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/8.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/9.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/10.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/11.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/12.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/14.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/15.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/16.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/17.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/18.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/20.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/21.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/22.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee" width="30%" height="100%" src="./img/23.png" alt="我的页面"/>
 
 </div>
 
