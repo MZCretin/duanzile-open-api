@@ -22,7 +22,7 @@
 先大致展示下一些主要的页面：
 
 <div align=center >
-  <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/3.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px; border:1px solid red; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/3.png" alt="我的页面" />
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/page1.png" alt="首页"/>
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/25.png" alt="我的页面"/>
@@ -52,6 +52,7 @@
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/21.png" alt="我的页面"/>
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/22.png" alt="我的页面"/>
   <img style="margin-right: 10px;margin-bottom: 10px; background: #eeeeee; padding: 1px" width="30%" height="100%" src="./img/23.png" alt="我的页面"/>
+
 
 </div>
 
