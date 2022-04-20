@@ -19,6 +19,42 @@
 
 本次开放除了一些特殊功能包括IM消息相关，第三方QQ微信登录和一键登录之外，其他功能所对应的接口都开放，所以理论上你完全可是实现一个另一个自己的《段子乐》（注：IM和推送你可以自己对接，不让后端介入）。
 
+先大致展示下一些主要的页面：
+
+<div align=center >
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/page1.png" alt="首页"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/page2.png" alt="划一划"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/page3.png" alt="消息页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/page4.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/1.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/2.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/3.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/4.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/5.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/6.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/7.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/8.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/9.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/10.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/11.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/12.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/13.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/14.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/15.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/16.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/17.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/18.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/20.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/21.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/22.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/23.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/24.png" alt="我的页面"/>
+  <img style="margin-right: 10px;margin-bottom: 10px" width="30%" height="100%" src="./img/25.png" alt="我的页面"/>
+</div>
+
+具体体验一下什么是《段子乐》，请点击：https://www.pgyer.com/rmjK，如果对接完所有接口，你可以大致开发出这么一个APP。
+
 ## 三，对接之前
 
 对接接口之前，有些约定要提前告知。开放接口文档已托管到github，后续肯定会有很多新增和修改，将会同步在github上，而不会更新此文章，所以请提前收藏该地址：
