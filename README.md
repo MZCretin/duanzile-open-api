@@ -23,7 +23,7 @@
 
 先大致展示下一些主要的页面：
 
-<div align=center style="background: #ccc">
+<div align=center background=red>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/3.png" alt="我的页面" />
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/page1.png" alt="首页"/>
   <img style="margin-right: 10px;margin-bottom: 10px; " width="30%" height="100%" src="./img/19.png" alt="我的页面"/>
@@ -58,46 +58,6 @@
 </div>
 
 具体体验一下什么是《段子乐》，请点击：https://www.pgyer.com/rmjK ，如果对接完所有接口，你可以大致开发出这么一个APP。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 三、对接之前
 
@@ -167,3 +127,4 @@
 
 ### 4.1、首页类接口
 
+>>>>>>> 
