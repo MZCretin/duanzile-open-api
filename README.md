@@ -205,7 +205,7 @@ http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E5%B7%A5%E5%85%B7Helper%E6%8E%A
 
 http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E5%B7%A5%E5%85%B7Helper%E6%8E%A5%E5%8F%A3/feedbackUsingPOST
 
-### 4.3 段子相关接口（21个）
+### 4.3 段子相关接口（23个）
 
 #### 4.3.1.1 发布段子
 
@@ -294,6 +294,14 @@ http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E6%AE%B5%E5%AD%90%E7%9B%B8%E5%8
 #### 4.3.3.1 给段子 踩/取消踩
 
 http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E6%AE%B5%E5%AD%90%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3/unlikeUsingPOST
+
+#### 4.3.3.2 获取指定用户喜欢的段子列表
+
+http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E6%AE%B5%E5%AD%90%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3/getTargetUserLikeWholeJokesListUsingPOST
+
+#### 4.3.3.3 获取指定用户段子列表
+
+http://tools.cretinzp.com/jokes/doc.html#/3.0.0/%E6%AE%B5%E5%AD%90%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3/getTargetUserJokesListUsingPOST
 
 ### 4.4 用户相关接口（28个）
 
